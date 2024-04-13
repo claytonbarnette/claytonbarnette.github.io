@@ -1,2 +1,2 @@
 # claytonbarnette.github.io
-Official website for Polyglot Creative Developer Clayton Barnette &copy; 2024
+Official website of Polyglot Creative Developer Clayton Barnette &copy; 2024
